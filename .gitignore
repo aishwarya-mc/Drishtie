@@ -200,8 +200,3 @@ build/
 
 .vscode/
 .supabase/
-settings.py
-venv/
-
-
-
